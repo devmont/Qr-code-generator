@@ -12,7 +12,7 @@ Este projeto consiste em um gerador de QR Code que permite ao usuário criar có
 
 O objetivo deste projeto é fornecer uma ferramenta simples e prática para a geração de QR Codes personalizados, que possam ser utilizados em diversas situações, como compartilhar informações, promover links ou fornecer acesso rápido a conteúdos específicos.
 
-## Algumas Observações sobre este projeto
+## Algumas Observações sobre este projeto  ⚠️
 
 - Este projeto é uma demonstração de como utilizar a biblioteca QRCode.js para gerar QR Codes em um website.
 - Atualmente, todas as funcionalidades principais estão implementadas e funcionando corretamente.
